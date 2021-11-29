@@ -291,5 +291,9 @@ footer{
     header:hover .links{
         top: 60px;
     }
+    .about-left,
+    .about-right{
+    width: 100%;
+    }
     
 }
